@@ -1,4 +1,4 @@
-This is a repository for cybersecurity projects I a have made.
+This is a repository for cybersecurity projects I have made.
 
 I will continue to update and improve some projects as and when my skills improve.
 
